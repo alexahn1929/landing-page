@@ -1,2 +1,2 @@
 # landing-page
-sample website
+A sample website written as part of The Odin Project's curriculum.
