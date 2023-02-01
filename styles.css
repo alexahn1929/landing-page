@@ -107,3 +107,17 @@ button {
     font-size: 36px;
     font-weight: bold;
 }
+
+.panel3 {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    padding: 150px 300px;
+}
+
+#speaker {
+    font-size: 20px;
+    color: #1F2937;
+    font-weight: bold;
+    text-align: right;
+}
